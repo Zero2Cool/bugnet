@@ -28,6 +28,26 @@
     line-height: 50px;
 }
 
+
+.navbar-default .navbar-brand-img {
+    padding: 5px 15px 15px 15px;
+}
+
+.navbar-default .navbar-toggle {
+    /* border-color: #333; */
+    /* color: #fff; */
+    font-size: 18px;
+    padding: 5px 10px;
+}
+
+.navbar-default .navbar-nav > .navbar-profile > a {
+    height: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 50px;
+}
+
+
 .navbar-profile-avatar {
     position: relative;
     top: -1px;
