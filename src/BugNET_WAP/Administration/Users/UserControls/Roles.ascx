@@ -26,6 +26,7 @@
 <h3><asp:Literal ID="Literal1" runat="server" Text="<%$ Resources:Roles %>"/></h3>
 <asp:CheckBoxList ID="RoleList" CssClass="checkbox" RepeatLayout="Flow" RepeatDirection="Vertical" runat="server">
 </asp:CheckBoxList>
+<br /><br /><br /><br />
 <hr />
 <div class="row">
     <asp:LinkButton ID="cmdUpdateRoles" CssClass="btn btn-primary" runat="server" Text="<%$ Resources:SharedResources, Save %>" OnClick="CmdUpdateRolesClick"></asp:LinkButton>
